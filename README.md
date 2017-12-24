@@ -10,3 +10,5 @@ use TIA as an software platform</br>
    更换启动画面
 4. [Open Graph Editor](https://github.com/yanzixiang/YZX.TIA.PUBLIC/wiki/Open-Graph-Editor)</br>
    打开顺序流程图编辑器
+5. [Open Ladder Editor](https://github.com/yanzixiang/YZX.TIA.PUBLIC/wiki/Open-Ladder-Editor)</br>
+   打开梯型图编辑器

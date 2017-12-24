@@ -8,4 +8,5 @@ use TIA as an software platform</br>
   在Wincc设计画面中为每个控件添加IronPython控制台
 3. [Change the splash image](https://github.com/yanzixiang/YZX.TIA.PUBLIC/wiki/Change-the-splash-image)</br>
    更换启动画面
-4. 
+4. [Open Graph Editor](https://github.com/yanzixiang/YZX.TIA.PUBLIC/wiki/Open-Graph-Editor)</br>
+   打开顺序流程图编辑器
